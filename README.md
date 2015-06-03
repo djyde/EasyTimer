@@ -11,7 +11,7 @@ Inspired by: http://android-developers.blogspot.com/2007/11/stitch-in-time.html
 ```java
 EasyTimer timer = new EasyTimer();
 
-// Or you can custom the interval
+// Or you can custom the interval, it is 1000 millisecond by default.
 
 EasyTimer timer = new EasyTimer(2000);
 
